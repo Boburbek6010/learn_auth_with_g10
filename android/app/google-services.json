@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "884766744237",
+    "project_id": "auth-with-g10",
+    "storage_bucket": "auth-with-g10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884766744237:android:ef9161525d5605136c7024",
+        "android_client_info": {
+          "package_name": "com.pdp.learn_auth_with_g10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtE4hAMBS04nLt2HXN0NCBX2cOFswpsfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
